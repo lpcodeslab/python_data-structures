@@ -55,6 +55,8 @@ print("Index 2 to 4:", name_list[2:5])
 # d. Reverse order
 print("Reverse Order:", name_list[::-1])
 
+# 4. Dictionary
+
 # a. Create a dictionary
 
 student_marks = {
@@ -86,6 +88,8 @@ print("Student Marks:", student_marks.values())
 
 # Print all key-value pairs
 print("Student Details:", student_marks.items())
+
+# 5. Sets
 
 # a. Create a set
 
@@ -121,6 +125,8 @@ set2 = {2, 3, 5, 8, 10}
 print("Union:", set1.union(set2))
 
 print("Intersection:", set1.intersection(set2)) 
+
+# 6. Operators & Conditional Statements :
 
 # Performance Category Program
 
